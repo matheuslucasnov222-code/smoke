@@ -1,0 +1,28 @@
+{
+  "name": "smoke",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao repositório oficial da **Smoke Black**, uma aplicação web interativa focada em produtos de cuidados capilares, acessórios e estilo para cabelos cacheados e crespos.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuslucasnov222-code/smoke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/matheuslucasnov222-code/smoke/issues"
+  },
+  "homepage": "https://github.com/matheuslucasnov222-code/smoke#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/core": "^8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.2"
+  }
+}
